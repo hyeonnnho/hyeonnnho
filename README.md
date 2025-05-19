@@ -10,6 +10,7 @@
 - `Email` : tiger1330@naver.com
 - 🔭 I'm currently studying IoT Development
   - Major : Math, Bigdata, AI
+  - Hobby : Workout, Swimming
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
@@ -73,7 +74,7 @@
 -->
 
 ## Project List
-- [IoT] [IoT프로젝트](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
+- [Sleep Pattern Analyzer][IoT프로젝트](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
