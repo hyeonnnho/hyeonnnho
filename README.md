@@ -76,7 +76,7 @@
 ## Project List
 - [Sleep Pattern Analyzer][IoT프로젝트](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
 
-- [Swimming Team Daezy][Html프로젝트](https://hyeonnnho.github.io/Daezy/)
+- [Swimming Team Daezy][Html실습](https://hyeonnnho.github.io/Daezy/)
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 
